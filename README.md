@@ -1,2 +1,3 @@
 # JAVA
-all code which i have practiced while learning java
+All code which i have practiced while learning java.
+------------------------------------------------------
